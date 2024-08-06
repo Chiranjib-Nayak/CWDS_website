@@ -33,6 +33,7 @@
     position: relative;
     left: 215px;
     margin-left: 50px;
+    
 }
 .btn{
     position: relative;
@@ -67,4 +68,8 @@ top: -18px;
 }
 .row_1{
   text-align: center;
+}
+
+.nav-link:hover{
+background-color: blue;
 }
